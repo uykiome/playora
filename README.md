@@ -9,6 +9,5 @@ PHP және MySQL қолданып әзірленген компьютерлі�
 3. `game-details.php` — Ойын туралы толық ақпарат.
 4. `admin.php` — Ойындарды басқару (CRUD) панелі.
 
-## 🗄️ Дерекқор құрылымы (ER-диаграмма)
-![Database ER diagram]
+# Дерекқор құрылымы (ER-диаграмма)
 <img width="762" height="321" alt="плейора ер диаграмма drawio" src="https://github.com/user-attachments/assets/d85eee71-8686-4585-ae15-ad67faa4c034" />
