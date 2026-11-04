@@ -14,5 +14,5 @@ game.php                 # Ойын туралы ақпарат (Толық мә
 favorites.php            # Таңдаулылар (Таңдалған ойындарды көрсету)
 logout.php               # Жүйеден шығу скрипті (Сессияны жабу)
 
-# Дерекқор құрылымы (ER-диаграмма)
+# (ER-диаграмма)
 <img width="762" height="321" alt="плейора ер диаграмма drawio" src="https://github.com/user-attachments/assets/d85eee71-8686-4585-ae15-ad67faa4c034" />
